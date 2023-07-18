@@ -46,7 +46,8 @@
 - Tham số: Không có
 - Kết quả: rỗng
 - Test kết quả trả về: Trạng thái trả về
-- https://reqres.in/api/users/2
+- ![image](https://github.com/TrongBui15012002/TestAPI/assets/91036603/9f30f026-204b-40f0-ac6e-0e294a83431c)
+
 
 
 
